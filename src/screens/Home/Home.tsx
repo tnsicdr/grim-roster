@@ -1,4 +1,4 @@
-import BaseLayout from "../../components/Layout/Base";
+import BaseLayout from "../../Layout/Base";
 
 function Home() {
   return <BaseLayout>Welcome to GrimRoster</BaseLayout>;
